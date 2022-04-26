@@ -1,0 +1,182 @@
+{
+    "0": {
+        "name":"Entradas",
+        "color":"bg-red-600",
+        "products":{
+            "0": {
+                "name": "Acra",
+                "price": "RD$250",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940515/products/r89d-Restaurante-Acra-meat_zjntoh.jpg",
+                "url":""
+            },
+            "1": {
+                "name": "Bastoncillo de Queso",
+                "price": "RD$275",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940568/products/bastoncillos-de-anchoas-con-queso-y-sesamo--md-133171p200498_ibbpyq.jpg",
+                "url":""
+            },
+            "2": {
+                "name": "Bolitas de Carne Molida",
+                "price": "RD$300",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940608/products/497c7044c66b747722f8a4b63c53f46a_bolitas-de-carne-en-salsa-pomodoro_640x480_qp7uth.jpg",
+                "url":""
+            }
+        }
+    },
+    "1": {
+        "name":"Plato Fuerte",
+        "color":"bg-green-600",
+        "products":{
+            "0": {
+                "name": "Pescado al Horno",
+                "price": "RD$800",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650939859/products/pescado-al-horno-shutterstock_1919784281_zle4ne.jpg",
+                "url":""
+            },
+            "1": {
+                "name": "Pescado a la Criolla",
+                "price": "RD$750",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650939895/products/PESCADO-A-LA-CRIOLLA-2-personas-860-X-573_vrrsom.jpg",
+                "url":""
+            },
+            "2": {
+                "name": "Pescado Frito",
+                "price": "RD$700",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650939909/products/Colombian-Whole-Fried-Fish_cobzcl.jpg",
+                "url":""
+            },
+            "3": {
+                "name": "Pechuga a la Cordon Bleu",
+                "price": "RD$400",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650939931/products/Cordon-bleu-de-pollo_irabqt.jpg",
+                "url":""
+            },
+            "4": {
+                "name": "Pechuga a la Crema",
+                "price": "RD$400",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940129/products/pollo-en-crema-de-hongos_s7f1xc.jpg",
+                "url":""
+            },
+            "5": {
+                "name": "Chivo Jugoso",
+                "price": "RD$500",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650939954/products/48-image_web_njvwrv.jpg",
+                "url":""
+            },
+            "6": {
+                "name": "Chivo Frito",
+                "price": "RD$450",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940157/products/chivo-frito-y-ciervo_p5ig6t.jpg",
+                "url":""
+            },
+            "7": {
+                "name": "Camarones al Ajillo",
+                "price": "RD$395",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940173/products/camarones-al-ajillo-shrimp-garlic-sauce-asassyspoon-1_g3nqvr.jpg",
+                "url":""
+            },
+            "8": {
+                "name": "Club Sandwich",
+                "price": "RD$300",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940189/products/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2020__04__Turkey-Club-LEAD-3-48a8d4f44b35481390f7963f84dce3ad_mlrpkq.jpg",
+                "url":""
+            },
+            "9": {
+                "name": "Alitas a la Barbecue",
+                "price": "RD$395",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940209/products/maxresdefault_ojrbkh.jpg",
+                "url":""
+            },
+            "10": {
+                "name": "Mondongo Dominicano",
+                "price": "RD$300",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940251/products/maxresdefault_o85eik.jpg",
+                "url":""
+            },
+            "11": {
+                "name": "Sancocho",
+                "price": "RD$300",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940272/products/640px-Barranquilla_-_Sancocho_de_mondongo_qtylif.jpg",
+                "url":""
+            },
+            "12": {
+                "name": "Res Jugosa",
+                "price": "RD$400",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940287/products/33b1a2e2-ecf6-46d4-a777-45d6fee3124a_ilsckg.jpg",
+                "url":""
+            },
+            "13": {
+                "name": "Res Frita",
+                "price": "RD$350",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940303/products/Receta-de-Carne-de-Res-Frita_tkvdmb.jpg",
+                "url":""
+            },
+            "14": {
+                "name": "Pollo al horno",
+                "price": "RD$400",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940333/products/polo-al-horno_zmogkh.jpg",
+                "url":""
+            },
+            "15": {
+                "name": "Pollo Frito",
+                "price": "RD$395",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650940349/products/maxresdefault_kda0pb.jpg",
+                "url":""
+            }
+        }
+    },
+    "2": {
+        "name":"Acompañantes",
+        "color":"bg-yellow-600",
+        "products":{
+            "0": {
+                "name": "Fritos (Plátanos Verdes)",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650945900/como_hacer_platano_frito_26124_600_kozbjb.jpg",
+                "url":""
+            },
+            "1": {
+                "name": "Papas Fritas",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650945918/sides-papas-fritas_ag68wl.jpg",
+                "url":""
+            },
+            "2": {
+                "name": "Batata Frita",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650945966/JqjgD2ME-720_kati57.jpg",
+                "url":""
+            },
+            "3": {
+                "name": "Puré de Yuca",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650945985/pure-de-yuca-ft-500x375_kwbefx.jpg",
+                "url":""
+            },
+            "4": {
+                "name": "Arroz",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650945942/Arroz-blanco-768x527_fzkyyn.jpg",
+                "url":""
+            },
+            "5": {
+                "name": "Mangú de Plátano",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650946045/mangu_dominicano_6618_600_oexl5j.jpg",
+                "url":""
+            },
+            "6": {
+                "name": "Guineos",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650946073/81499ae1-c741-4930-b168-463cc6a76141-retina-large-jpeg_c58qlm.jpg",
+                "url":""
+            },
+            "7": {
+                "name": "Trigo con Guandules",
+                "price": "",
+                "image":"https://res.cloudinary.com/dboafhu31/image/upload/v1650946090/dscf5490_sfngnd.jpg",
+                "url":""
+            }
+        }
+    }
+}
